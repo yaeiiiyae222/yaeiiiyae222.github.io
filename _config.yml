@@ -11,7 +11,7 @@ locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
 title                    : "Your Name / Site Title"
 title_separator          : "-"
-name                     : &name "Taheon Kim"
+name                     : &name "Taeheon Kim"
 description              : &description "Taeheon Kim's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://yaeiiiyae222.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
@@ -24,7 +24,7 @@ repository               : "yaeiiiyae222/yaeiiiyae222.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Taeheon Kim"
   pronouns         : # example: "she/her"  
   bio              : "Researcher"
   location         : "Earth"
